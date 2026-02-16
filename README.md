@@ -51,22 +51,19 @@ The dataset enabled multi-dimensional analysis across time, geography, category,
 
 ### Executive Summary
 
-- Total Bookings
-- Total Revenue
-- Average Booking Value
-- Booking Trends Over Time
+<img width="1381" height="740" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/f2cf3a00-6888-4428-ba70-2fb4702bc45b" />
 
-### Revenue Analysis
+---
+### Category Analysis
 
-- Revenue by Category
-- Revenue by Location
-- Revenue Growth Trends
+<img width="1381" height="740" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/5e862943-39ac-43b9-9756-509d22355245" />
 
-### Booking Analysis
+---
+### Channel Analysis
 
-- Booking distribution across channels
-- Category performance comparison
+<img width="1381" height="740" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/60db4b74-23e2-4444-b47c-a4985b8402c5" />
 
+---
 ### Discount impact analysis
 
 ### Cancellation and refund analysis
