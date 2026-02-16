@@ -104,7 +104,7 @@ The dataset enabled multi-dimensional analysis across time, geography, category,
 
 ### Churn and Retention Analysis
 
-<img width="1375" height="725" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/e6f25eda-9451-44f7-ac7f-5205751c42b4" />
+<img width="1375" height="725" alt="image" src="https://github.com/user-attachments/assets/f2504089-9d6f-4d78-af81-6de93d8bf82d" />
 
 ---
 
