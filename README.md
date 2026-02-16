@@ -73,9 +73,9 @@ The objective of this project is to analyze travel booking performance and answe
 
 <img width="1647" height="791" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/0a01e241-c85c-42a7-9445-010bc9a1baa1" />
 
-Example:
+---
 
-![Dashboard Overview](screenshots/overview.png)
+## Project Structure
 
 travel-booking-dashboard-powerbi/
 
@@ -89,7 +89,30 @@ screenshots/
 
 README.md
 
+
 ---
 
-## Project Structure
+## Skills Demonstrated
+
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Product Analytics
+- Revenue Analysis
+- Power BI
+- Data Storytelling
+
+---
+
+## Author
+
+Himani Malhotra  
+Product Data Analyst  
+
+LinkedIn:
+https://linkedin.com/in/himani-malhotra-a12ba6190
+
+Kaggle:
+https://www.kaggle.com/himanimalhotra
+
 
