@@ -47,6 +47,12 @@ The dataset enabled multi-dimensional analysis across time, geography, category,
 
 ---
 
+## Dashboard Preview
+
+<img width="1647" height="791" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/0a01e241-c85c-42a7-9445-010bc9a1baa1" />
+
+---
+
 ## Dashboard Features
 
 ### Executive Summary
@@ -56,23 +62,48 @@ The dataset enabled multi-dimensional analysis across time, geography, category,
 ---
 ### Category Analysis
 
-<img width="1381" height="740" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/5e862943-39ac-43b9-9756-509d22355245" />
+<img width="1356" height="738" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/208e3047-93fb-4614-8a08-a16aba9ef0d7" />
 
 ---
+
 ### Channel Analysis
 
-<img width="1381" height="740" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/60db4b74-23e2-4444-b47c-a4985b8402c5" />
+<img width="1376" height="752" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/7ecab992-e1ec-41e8-8469-c20f721d1565" />
 
 ---
-### Discount impact analysis
 
-### Cancellation and refund analysis
+### Discount Impact Analysis
 
-### Churn and retention analysis
+<img width="1366" height="748" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/aa9481d8-235e-48ee-bc60-a55dafe963d7" />
+
+---
+
+### Cancellation and Refund Analysis
+
+<img width="1370" height="736" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/ad013725-f8aa-4af0-95a3-c7656de97cdd" />
+
+---
+
+### Geographic Performance Analysis
+
+<img width="1375" height="736" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/17963c86-888f-4c0d-8afc-e4264ae48a1e" />
+
+---
+
+### Churn and Retention Analysis
+
+<img width="1375" height="736" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/f427d427-27b1-4c59-971b-fedbe371c9ac" />
+
+---
 
 ### Business Insights and Recommendations
 
+<img width="1373" height="738" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/ad28c3bc-3021-499e-b327-1be5679833e0" />
+
 ---
+
+### Business Strategy
+Executive thinking → Performance diagnosis → Root cause analysis → Retention & revenue protection.
 
 ## Key Insights
 
@@ -83,29 +114,6 @@ The dataset enabled multi-dimensional analysis across time, geography, category,
 
 ---
 
-## Dashboard Preview
-
-<img width="1647" height="791" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/0a01e241-c85c-42a7-9445-010bc9a1baa1" />
-
----
-
-## Project Structure
-
-travel-booking-dashboard-powerbi/
-
-dataset/
-travel_booking.csv
-
-dashboard/
-travel_booking_dashboard.pbix
-
-screenshots/
-
-README.md
-
-
----
-
 ## Skills Demonstrated
 
 - Business Intelligence
@@ -113,6 +121,8 @@ README.md
 - Data Visualization
 - Product Analytics
 - Revenue Analysis
+- Discount Impact Analysis
+- Retention & Churn Analysis
 - Power BI
 - Data Storytelling
 
