@@ -47,8 +47,16 @@ The objective of this project is to analyze travel booking performance and answe
 
 ### Booking Analysis
 
-- Booking distribution across segments
+- Booking distribution across channels
 - Category performance comparison
+
+### Discount impact analysis
+
+### Cancellation and refund analysis
+
+### Churn and retention analysis
+
+### Business Insights and Recommendations
 
 ---
 
