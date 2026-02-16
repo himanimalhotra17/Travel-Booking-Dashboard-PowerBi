@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard analyzing travel booking
 
 The dashboard enables stakeholders to monitor KPIs, identify growth opportunities, and optimize business strategies using data-driven insights.
 
-Kaggle Notebook:
+Kaggle Notebook for detailed narrative:
 https://www.kaggle.com/code/himanimalhotra/power-bi-travel-booking-dashboard-project
 
 ---
