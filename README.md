@@ -30,6 +30,23 @@ The objective of this project is to analyze travel booking performance and answe
 
 ---
 
+## Dataset Overview
+The dataset included transactional booking-level data with the following key fields:
+• Booking ID
+• Booking Date
+• Category
+• Channel
+• City
+• Booking Status
+• Base Price
+• Final Price
+• Discount Percentage
+• Net Revenue
+• Refund Amount
+The dataset enabled multi-dimensional analysis across time, geography, category, and acquisition channel.
+
+---
+
 ## Dashboard Features
 
 ### Executive Summary
